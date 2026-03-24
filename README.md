@@ -30,7 +30,7 @@ A simple, browser-based **Rock-Paper-Scissors** game built with HTML, CSS, and v
 ## 📁 Project Structure
 
 ```
-Rock-Paper-Scissor/
+Rock-Paper-Scissors/
 ├── index.html   # Main game page
 ├── index.css    # Styles
 └── index.js     # Game logic
@@ -48,7 +48,7 @@ No build steps or dependencies needed — it's pure HTML/CSS/JS.
 
 ## 📸 Preview
 
-The game features a dark, gradient background with colour-coded buttons:
+The game features a dark, gradient background with color-coded buttons:
 - 🔵 **Rock** — Blue
 - 🟢 **Paper** — Green
 - 🔴 **Scissors** — Red
