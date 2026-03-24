@@ -1,6 +1,6 @@
-# ✂️ Rock-Paper-Scissor
+# ✂️ Rock-Paper-Scissors
 
-A fun and interactive **Rock-Paper-Scissor** game built with vanilla HTML, CSS, and JavaScript. Challenge the computer and be the first to reach **5 wins** to claim victory!
+A fun and interactive **Rock-Paper-Scissors** game built with vanilla HTML, CSS, and JavaScript. Challenge the computer and be the first to reach **5 wins** to claim victory!
 
 ---
 
